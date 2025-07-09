@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\user\\source\\repos\\tic tac toe\\tic tac toe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\user\\source\\repos\\tic tac toe\\tic tac toe\\repository\\repositorygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\repository\\repositorygame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\user\\source\\repos\\tic tac toe\\tic tac toe\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\user\\source\\repos\\tic tac toe\\tic tac toe\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\user\\source\\repos\\tic tac toe\\tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|c:\\users\\user\\source\\repos\\tic tac toe\\tic tac toe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39A129E7-3F2F-4880-9465-0BDB9294ABA8}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Dockerfile",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Dockerfile",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Dockerfile",
+              "RelativeToolTip": "Tic Tac Toe\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T14:59:45.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryGame.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Repository\\RepositoryGame.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Repository\\RepositoryGame.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Repository\\RepositoryGame.cs",
+              "RelativeToolTip": "Tic Tac Toe\\Repository\\RepositoryGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:59:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Model\\Game.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Model\\Game.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Model\\Game.cs",
+              "RelativeToolTip": "Tic Tac Toe\\Model\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:01:27.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Program.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Program.cs",
+              "RelativeToolTip": "Tic Tac Toe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:45:35.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Tic Tac Toe\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T10:41:30.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Tic Tac Toe\\Controllers\\GameController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:18:29.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
