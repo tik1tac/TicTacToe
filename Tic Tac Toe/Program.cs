@@ -7,8 +7,8 @@ using Tic_Tac_Toe.Repository;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers().AddJsonOptions(options => options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
-var boardSize = 5;/*int.TryParse(Environment.GetEnvironmentVariable("TICTACTOE_BOARD_SIZE"), out var size) ? size : 3;*/
-var winLength = 4;/*int.TryParse(Environment.GetEnvironmentVariable("TICTACTOE_WIN_LENGTH"), out var win) ? win : 3;*/
+var boardSize = int.TryParse(Environment.GetEnvironmentVariable("TICTACTOE_BOARD_SIZE"), out var size) ? size : 3;
+var winLength = int.TryParse(Environment.GetEnvironmentVariable("TICTACTOE_WIN_LENGTH"), out var win) ? win : 3;
 builder.Services.AddSingleton(new GameConfig { BoardSize = boardSize, WinLength = winLength });
 
 builder.Services.AddControllers();

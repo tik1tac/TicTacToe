@@ -29,3 +29,67 @@ C:\Users\user\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0\ref\Tic Tac 
 C:\Users\user\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\user\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.csproj.AssemblyReference.cache
 C:\Users\user\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac .A5C522A8.Up2Date
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\appsettings.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.staticwebassets.endpoints.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.exe
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.deps.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.runtimeconfig.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.dll
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.pdb
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.sourcelink.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\scopedcss\bundle\Tic Tac Toe.styles.css
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.Tic Tac Toe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.Tic Tac Toe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.build.Tic Tac Toe.props
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Tic Tac Toe.props
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Tic Tac Toe.props
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac .A5C522A8.Up2Date
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.dll
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\refint\Tic Tac Toe.dll
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.pdb
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\user\source\repos\Tic Tac Toe\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\ref\Tic Tac Toe.dll
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\appsettings.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.staticwebassets.endpoints.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.exe
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.deps.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.runtimeconfig.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.dll
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Tic Tac Toe.pdb
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.sourcelink.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\scopedcss\bundle\Tic Tac Toe.styles.css
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.Tic Tac Toe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.Tic Tac Toe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.build.Tic Tac Toe.props
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Tic Tac Toe.props
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Tic Tac Toe.props
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac .A5C522A8.Up2Date
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.dll
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\refint\Tic Tac Toe.dll
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.pdb
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\user\source\repos\TicTacToe\Tic Tac Toe\obj\Debug\net9.0\ref\Tic Tac Toe.dll

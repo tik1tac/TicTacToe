@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj": {}
+    "C:\\Users\\user\\source\\repos\\TicTacToe\\Tic Tac Toe\\Tic Tac Toe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj": {
+    "C:\\Users\\user\\source\\repos\\TicTacToe\\Tic Tac Toe\\Tic Tac Toe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TicTacToe\\Tic Tac Toe\\Tic Tac Toe.csproj",
         "projectName": "Tic Tac Toe",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\TicTacToe\\Tic Tac Toe\\Tic Tac Toe.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\TicTacToe\\Tic Tac Toe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program\\Visual Studio\\Basic\\NuGetPackages"

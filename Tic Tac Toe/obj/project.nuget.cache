@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q++OQA9jOs0=",
+  "dgSpecHash": "f9fQe0Z8CkQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\TicTacToe\\Tic Tac Toe\\Tic Tac Toe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"

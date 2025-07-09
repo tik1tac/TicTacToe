@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  tictactoe-api:
+    build:
+      context: ./Tic Tac Toe
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - TICTACTOE_BOARD_SIZE=5     
+      - TICTACTOE_WIN_LENGTH=4     
+    volumes:
+      - ./games:/app/games         

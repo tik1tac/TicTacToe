@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TaN7Q0iJK7E=",
+  "dgSpecHash": "4WPMfS61ci0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Tic Tac Toe\\TicTacToe.Tests\\TicTacToe.Tests.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\TicTacToe\\TicTacToe.Tests\\TicTacToe.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
